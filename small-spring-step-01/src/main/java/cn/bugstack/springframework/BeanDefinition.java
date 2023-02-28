@@ -6,7 +6,7 @@ package cn.bugstack.springframework;
 public class BeanDefinition {
 
     private Object bean;
-
+    //测试修改第9行
     public BeanDefinition(Object bean) {
         this.bean = bean;
     }
